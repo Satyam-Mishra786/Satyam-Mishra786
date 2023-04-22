@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)]
+![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">A passionate frontend react developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
